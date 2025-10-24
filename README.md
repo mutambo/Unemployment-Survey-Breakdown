@@ -5,6 +5,9 @@ This repo consists of datasets used to analyze unemployment on different areas i
 
 ### What demographic and regional factors contribute most to unemployment, and how do age, gender, and education levels influence annual income and unemployment rates across different regions?
 
+<img width="934" height="541" alt="image" src="https://github.com/user-attachments/assets/71f9de23-a2f3-4217-a76c-aea4ac3c62f9" />
+
+
 # 📊 Insights from the Dashboard
 1. Overall Demographics
 
